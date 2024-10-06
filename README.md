@@ -1,4 +1,6 @@
 **🎶 Spotify Clone Project**
+
+
 A feature-rich clone of the popular music streaming platform, Spotify. This project demonstrates the use of modern web development technologies and provides a seamless user experience akin to the original platform. Users can explore, search for, and play their favorite music.
 
 **🌟 Features**
@@ -10,11 +12,18 @@ A feature-rich clone of the popular music streaming platform, Spotify. This proj
 5. Navigation: Smooth transitions between pages with a user-friendly interface.
 
 🛠️ Technologies Used
-***** Frontend:
-HTML5
-CSS3 (Flexbox, Grid, Media Queries)
-JavaScript (ES6+)
-Backend: (Optional, if implemented)
-Node.js
-Express.js
-Version Control: Git & GitHub
+
+
+**Frontend:**
+
+1. HTML5
+2. CSS3 (Flexbox, Grid, Media Queries)
+3. JavaScript (ES6+)
+
+**Backend: (Optional, if implemented)**
+
+
+1. Node.js
+2. Express.js
+   
+**Version Control:** Git & GitHub
